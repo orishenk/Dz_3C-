@@ -1,0 +1,15 @@
+C:\Users\QQQ\Desktop\DZcC#_3\bin\Debug\net6.0\DZcC#_3.exe
+C:\Users\QQQ\Desktop\DZcC#_3\bin\Debug\net6.0\DZcC#_3.deps.json
+C:\Users\QQQ\Desktop\DZcC#_3\bin\Debug\net6.0\DZcC#_3.runtimeconfig.json
+C:\Users\QQQ\Desktop\DZcC#_3\bin\Debug\net6.0\DZcC#_3.dll
+C:\Users\QQQ\Desktop\DZcC#_3\bin\Debug\net6.0\DZcC#_3.pdb
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.csproj.AssemblyReference.cache
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.AssemblyInfoInputs.cache
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.AssemblyInfo.cs
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.csproj.CoreCompileInputs.cache
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.dll
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\refint\DZcC#_3.dll
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.pdb
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\DZcC#_3.genruntimeconfig.cache
+C:\Users\QQQ\Desktop\DZcC#_3\obj\Debug\net6.0\ref\DZcC#_3.dll
